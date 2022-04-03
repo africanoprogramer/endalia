@@ -1,0 +1,111 @@
+[
+  {
+    "id":0,
+    "image":"https://previews.123rf.com/images/goodluz/goodluz1401/goodluz140101052/25376557-%E3%83%8E%E3%83%BC%E3%83%88-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%81%A7%E8%87%AA%E5%AE%85%E3%81%A7%E4%BB%95%E4%BA%8B%E4%BA%BA.jpg",
+    "nombre":"Braulio Alboran",
+    "ocupacion":"Responsable de RRHH",
+    "identificacion":"078945",
+    "email": "Braulio@hotmail.com"
+  },
+  {
+    "id":1,
+    "image":"https://media.istockphoto.com/photos/portrait-of-young-man-against-white-background-picture-id916534092?k=20&m=916534092&s=612x612&w=0&h=w2xMYlOwxapYt_-q_Uk4yVmWiJfhIFhep3j1CNS689U=",
+    "nombre":"Juan Luis Vera",
+    "ocupacion":"Responsable tecnico de IT",
+    "identificacion":"078945",
+    "email": "Juanluis@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://fotomanias.com.ar/wp-content/uploads/2019/03/foto-carnet-fondo-celeste.jpg",
+    "nombre":"Juana Perez",
+    "ocupacion":"Zapping",
+    "identificacion":"078945",
+    "email": "Juana@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://365enfoques.com/wp-content/uploads/2018/09/como-hacerse-uno-mismo-las-fotos-del-dni.jpg",
+    "nombre":"clara Rodriguez",
+    "ocupacion":"Gerente de operaciones tecnicas",
+    "identificacion":"078945",
+    "email": "Clara@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://sites.google.com/site/trabajosdephotoshop1/_/rsrc/1480378169011/trabajos-en-photoshop-para-carnet/FOTO%20DE%20HOMBRE%201.jpg",
+    "nombre":"Cristian Ferer",
+    "ocupacion":"Responsable de Desarrollo de RRHH",
+    "identificacion":"078945",
+    "email": "Cristian@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://uploads-ssl.webflow.com/60386ead4a6e021987157344/603c49de93f8505ecf73b5bb_team.jpg",
+    "nombre":"Manuel De La Roca",
+    "ocupacion":"Contable",
+    "identificacion":"078945",
+    "email": "Manuel@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://us.123rf.com/450wm/iko/iko1409/iko140900112/31693995-retrato-del-estudio-de-un-hombre-joven-y-guapo.jpg?ver=6",
+    "nombre":"David Gomes",
+    "ocupacion":"Logistico",
+    "identificacion":"078945",
+    "email": "David@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://media.istockphoto.com/photos/serious-young-man-headshot-picture-id1056445786?k=20&m=1056445786&s=170667a&w=0&h=7xED2_mcOv83QZOn8wZoeMZS96qIptQ4CRmjklG56MM=",
+    "nombre":"Luis Gera",
+    "ocupacion":"Responsable de Marketing",
+    "identificacion":"078945",
+    "email": "Luis@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://media.istockphoto.com/photos/passport-picture-of-a-smiling-turkish-businesswoman-picture-id856599656?k=20&m=856599656&s=170667a&w=0&h=ouD9XUeOA5l_SQ4_f4bOA6LY3gDtLvboLJyvZsB8i8Q=",
+    "nombre":"Alma Santander",
+    "ocupacion":"Tecnicos de mantenimiento de infraestructuras IT",
+    "identificacion":"078945",
+    "email": "Alma@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://media.istockphoto.com/photos/passport-picture-of-a-modern-african-woman-picture-id486649262?k=20&m=486649262&s=612x612&w=0&h=F9WHkh-p2ppfdUEnLNlsC1dx-YaoHwhtO5EIwyHcZSs=",
+    "nombre":"Isabel Castillo",
+    "ocupacion":"Director de operacions",
+    "identificacion":"078945",
+    "email": "Isabel@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"https://image.shutterstock.com/image-photo/portrait-real-black-african-man-260nw-504712006.jpg",
+    "nombre":"Alejandro Castro",
+    "ocupacion":"Responsable administrativo",
+    "identificacion":"078945",
+    "email": "Alejandro@hotmail.com"
+
+  },
+  {
+    "id":1,
+    "image":"http://www.celoriu.com/wp-content/uploads/2011/05/Dolores-Fondo-blanco1.jpg",
+    "nombre":"Alexandra Gutieres",
+    "ocupacion":"Operador de red",
+    "identificacion":"078945",
+    "email": "Alexandra@hotmail.com"
+
+  }
+
+
+]
